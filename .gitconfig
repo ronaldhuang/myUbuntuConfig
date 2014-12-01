@@ -1,0 +1,11 @@
+[user]
+	name = ronaldhuang
+	email = ronaldhuang@asustor.com
+[core]
+	editor = vim
+[merge]
+	tool = meld
+[diff]
+    external = git_diff_wrapper
+[paper]
+    diff = meld
